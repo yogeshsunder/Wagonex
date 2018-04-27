@@ -62,6 +62,7 @@ public class VerifyAddCarfromDealer {
 	
 	addCarFromDealer.EntercarImagery("D:\\byd1.jpg");
 	addCarFromDealer.EntercarImagery("D:\\byd1.jpg");
+	System.out.println("It is passed.");
 	
 	
 	}
